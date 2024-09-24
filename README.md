@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @disco988
 - 👀 I’m interested in { Front End Development }
-- 🌱 I’m currently learning REACT 
+- 🌱 I’m currently building my portfolio
 - 📫  dawidj98@gmail.com
